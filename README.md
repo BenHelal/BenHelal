@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BenHelal
 - 👀 I’m interested in Symfony 6.1
-- 🌱 I’m currently learning Dynamics
-- 💞️ I’m looking to collaborate on Dynamics
 - 📫 How to reach me ben.helal@serdia.com.br
 
 <!---
