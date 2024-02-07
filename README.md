@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenHelal
-- 👀 I’m interested in Symfony 6.1
+- 👀 I’m interested in Symfony 6.1 and react
 - 📫 How to reach me ben.helal@serdia.com.br
 
 <!---
