@@ -57,7 +57,7 @@ I'm an experienced Typescript programmer and have good familiarity with most com
 <img src="https://logospng.org/download/node-js/logo-node-js-1024.png" alt="Node JS" height="40"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" height="40"/>&nbsp;&nbsp;<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png" alt="Kotlin" width="80" height="40"/>&nbsp;&nbsp;
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benhelalwajdi)</br>
-![ben](https://komarev.com/ghpvc/?username=benhelalwajdi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benhelal)</br>
+![ben](https://komarev.com/ghpvc/?username=benhelal)
 
 
