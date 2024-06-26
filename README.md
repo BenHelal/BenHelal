@@ -15,21 +15,6 @@
   <a href="https://github.com/benhelalwajdi" target="blank"> 
      <img align="center" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="Github: benhelalwajdi" height="40" width="40" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/ben.hw.3/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/facebook.svg" alt="Facebook: /benhelalwajdi" height="40"       width="40" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/HelalWajdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/twitter.svg" alt="Twitter: @HelalWajdi" height="40" width="40" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/wajdibh/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/instagram.svg" alt="Instagram: wajdibh" height="40" width="40"     />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://www.twitch.tv/wajdi522" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/twitch.svg" alt="Twitch: ben helal wajdi" height="40" width="40"     />
-  </a> &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/wbh52" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/spotify.svg" alt="Spotify: Ben helal wajdi" height="40" width="40" />
-  </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/wajdi-ben-helal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/linkedin.svg" alt="LinkedIn: Ben helal wajdi" height="40" width="40" /></a> &nbsp;&nbsp;
 
 
