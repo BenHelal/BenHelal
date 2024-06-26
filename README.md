@@ -3,7 +3,7 @@
   <em>
       Fullstack Php Developer ✨
     </br>
-    Software Engineering Student at ✨
+    Software Engineering from ✨
     <a href="https://esprit.tn/">
       <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_ESPRIT_-_Tunisie.png" alt="Esprit" height=25 />
     </a>✨
