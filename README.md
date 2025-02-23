@@ -1,7 +1,7 @@
 # Hi, I'm Ben Helal Wajdi! 
 <p>
   <em>
-      Fullstack Php Developer ✨
+      Fullstack Developer ✨
     </br>
     Software Engineering from ✨
     <a href="https://esprit.tn/">
